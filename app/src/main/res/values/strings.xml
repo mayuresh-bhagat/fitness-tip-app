@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Fitness Tips</string>
+    <string name="app_title">Daily Fineness Tips</string>
+    <string name="title_1">Set Clear Goals</string>
+    <string name="description_1">Define your fitness goals: weight loss, muscle gain, or overall health.</string>
+
+    <string name="title_2">Stay Hydrated</string>
+    <string name="description_2">Drink at least 2–3 liters of water daily to keep muscles and joints healthy.</string>
+
+    <string name="title_3">Warm Up Before Exercising</string>
+    <string name="description_3">A 5–10 minute dynamic warm-up preps your muscles and reduces injury risk.</string>
+
+    <string name="title_4">Focus on Strength Training</string>
+    <string name="description_4">Bodyweight exercises like squats, push-ups, and lunges improve strength and mobility.</string>
+
+    <string name="title_5">Move More Daily</string>
+    <string name="description_5">Aim for 8,000–10,000 steps per day to stay active and burn calories.</string>
+
+    <string name="title_6">Prioritize Protein</string>
+    <string name="description_6">Include protein-rich foods to support muscle recovery and growth.</string>
+
+    <string name="title_7">Sleep Well</string>
+    <string name="description_7">Get 7–9 hours of quality sleep for better recovery and energy levels.</string>
+
+    <string name="title_8">Try HIIT</string>
+    <string name="description_8">Short, intense workouts burn more calories and improve endurance.</string>
+
+    <string name="title_9">Stretch After Exercise</string>
+    <string name="description_9">Post-workout stretching improves flexibility and prevents soreness.</string>
+
+    <string name="title_10">Limit Processed Sugar</string>
+    <string name="description_10">Cut down on sugar to maintain steady energy levels and avoid crashes.</string>
+
+    <string name="title_11">Strength Train Regularly</string>
+    <string name="description_11">Include strength training at least 3 times a week for muscle and metabolism boost.</string>
+
+    <string name="title_12">Eat More Fiber</string>
+    <string name="description_12">Fiber-rich foods improve digestion and keep you full longer.</string>
+
+    <string name="title_13">Listen to Your Body</string>
+    <string name="description_13">Rest when needed to prevent burnout and injuries.</string>
+
+    <string name="title_14">Track Your Progress</string>
+    <string name="description_14">Use a journal or app to monitor workouts and improvements.</string>
+
+    <string name="title_15">Increase Weights Gradually</string>
+    <string name="description_15">Progressively overload muscles to build strength safely.</string>
+
+    <string name="title_16">Mix Up Your Workouts</string>
+    <string name="description_16">Try yoga, pilates, or cycling to prevent boredom and challenge your body.</string>
+
+    <string name="title_17">Fuel Your Workouts</string>
+    <string name="description_17">Eat a balanced pre-workout meal for energy and endurance.</string>
+
+    <string name="title_18">Avoid Overeating</string>
+    <string name="description_18">Practice mindful eating and portion control for better results.</string>
+
+    <string name="title_19">Take the Stairs</string>
+    <string name="description_19">A simple way to burn extra calories and improve endurance.</string>
+
+    <string name="title_20">Perfect Your Form</string>
+    <string name="description_20">Proper exercise technique prevents injuries and enhances effectiveness.</string>
+
+    <string name="title_21">Reduce Stress with Exercise</string>
+    <string name="description_21">Workouts release endorphins, improving mood and reducing stress.</string>
+
+    <string name="title_22">Stay Consistent</string>
+    <string name="description_22">Fitness is a long-term journey—stick with it for lasting results.</string>
+
+    <string name="title_23">Get Enough Vitamin D</string>
+    <string name="description_23">Outdoor workouts help with bone health and boost mood.</string>
+
+    <string name="title_24">Try New Challenges</string>
+    <string name="description_24">Set mini fitness goals to keep progressing and stay motivated.</string>
+
+    <string name="title_25">Balance Cardio and Strength</string>
+    <string name="description_25">Both are essential for a well-rounded fitness routine.</string>
+
+    <string name="title_26">Meal Prep for Success</string>
+    <string name="description_26">Plan and prep healthy meals to stay on track with nutrition.</string>
+
+    <string name="title_27">Have Fun with Fitness</string>
+    <string name="description_27">Try dance, sports, or outdoor activities to keep workouts enjoyable.</string>
+
+    <string name="title_28">Improve Posture</string>
+    <string name="description_28">A strong core helps maintain proper alignment and prevent pain.</string>
+
+    <string name="title_29">Reduce Screen Time Before Bed</string>
+    <string name="description_29">Better sleep leads to faster recovery and improved performance.</string>
+
+    <string name="title_30">Celebrate Your Wins</string>
+    <string name="description_30">Small progress adds up—acknowledge and enjoy your achievements!</string>
+
+    <string name="expand_button_content_description">See more or less information about a tip.</string>
+</resources>
